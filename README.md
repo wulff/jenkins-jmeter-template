@@ -25,10 +25,3 @@ Requirements
 ------------
 
 To use this template in Jenkins you must install the *Performance* plugin.
-
-
-Author
-------
-
-Morten Wulff  
-<wulff@ratatosk.net>
